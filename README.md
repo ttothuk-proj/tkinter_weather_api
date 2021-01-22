@@ -14,6 +14,6 @@ Sceenshots from the app.
 ![](/screenshots/003.png)
 
 
-Date of creation: June 2020
-Date of screenshots and upload : January 2021
-Idea : [Keith Galli](https://www.youtube.com/channel/UCq6XkhO5SZ66N04IcPbqNcw)
+* Date of creation: June 2020
+* Date of screenshots and upload : January 2021
+* Idea : [Keith Galli](https://www.youtube.com/channel/UCq6XkhO5SZ66N04IcPbqNcw)
